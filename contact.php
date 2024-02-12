@@ -52,18 +52,18 @@ High Court, Chennai.</span>
                         <div class="col-lg-8 offset-lg-2 mb-sm-30 text-center">
                             <h3>Do you have any question?</h3>
                             <!--<form name="contactForm" id="contact_form" class="form-border" method="post" action="https://www.designesia.com/themes/justica/email.php">-->
-                            <form name="contactForm" id="contact_form" class="form-border" method="post" action="contact-mail.php">
+                            <form name="contactForm" id="contact_form" class="form-border" method="post" action="contact-form-mail.php">
                                 <div class="field-set">
-                                    <input type="text" name="name" id="name" class="form-control" placeholder="Your Name" />
+                                    <input type="text" name="name" id="name" class="form-control" placeholder="Your Name"  required="required" />
                                 </div>
                                 <div class="field-set">
-                                    <input type="text" name="email" id="email" class="form-control" placeholder="Your Email" />
+                                    <input type="text" name="email" id="email" class="form-control" placeholder="Your Email"  required="required" />
                                 </div>
                                 <div class="field-set">
-                                    <input type="text" name="phone" id="phone" class="form-control" placeholder="Your Phone" />
+                                    <input type="text" name="phone" id="phone" class="form-control" placeholder="Your Phone"  required="required" />
                                 </div>
                                 <div class="field-set">
-                                    <textarea name="message" id="message" class="form-control" placeholder="Your Message"></textarea>
+                                    <textarea name="message" id="message" class="form-control" placeholder="Your Message"  required="required" ></textarea>
                                 </div>
                                 <div class="spacer-half"></div>
                                 <div id="submit">
@@ -85,7 +85,7 @@ High Court, Chennai.</span>
 
 <?php include("footer.php");?>	
 
-   <script>
+   <!-- <script>
     
     $('#contact_form').submit(function(event) {
         event.preventDefault();
@@ -98,7 +98,7 @@ High Court, Chennai.</span>
         });
 });
 
-</script>
+</script> -->
 
 
 
