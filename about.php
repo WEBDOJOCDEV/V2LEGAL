@@ -50,7 +50,7 @@ The firm has got rich experience in education related cases, up to the level of 
                     <div class="row align-items-center">
                         <div class="col-lg-4 col-md-12 wow fadeInRight" data-wow-delay=".2s">
                             <div class="de_count ultra-big s2 text-center">
-                                <h3 class="timer" data-to="25" data-speed="1000">25</h3>
+                                <h3 class="timer" data-to="26" data-speed="1000">26</h3>
                                 <span class="id-color">Years of Experience</span>
                             </div>
                         </div>

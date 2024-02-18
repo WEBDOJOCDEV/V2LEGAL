@@ -182,18 +182,20 @@
                             <!-- 2024 -->
 
                             <div class="row">
-                            <div class="col-md-3 mb30">
-                                    <div class="de-image-hover rounded">
-                                        <a href="images/social/2024/29.01.2024.png" class="image-popup">
-                                            <span class="dih-title-wrap">
-                                                <span class="dih-title">V2Legal</span>
-                                            </span>
-                                            <span class="dih-overlay"></span>
-                                            <img src="images/social/2024/29.01.2024.png" class="img-fluid" alt="">
-                                        </a>
+                                <div class="col-md-3 mb30">
+                                        <div class="de-image-hover rounded">
+                                            <a href="images/social/2024/29.01.2024.png" class="image-popup">
+                                                <span class="dih-title-wrap">
+                                                    <span class="dih-title">V2Legal</span>
+                                                </span>
+                                                <span class="dih-overlay"></span>
+                                                <img src="images/social/2024/29.01.2024.png" class="img-fluid" alt="">
+                                            </a>
+                                        </div>
+                                        <h3 style="text-align:center;padding:10px;">29.01.2024</h3>
                                     </div>
-                                    <h3 style="text-align:center;padding:10px;">29.01.2024</h3>
-                                </div>
+                            </div>
+                                <div class="row">
                                 <!-- 28 January -->
                                 <div class="col-md-3 mb30">
                                     <div class="de-image-hover rounded">
@@ -242,19 +244,21 @@
                                     <h3 style="text-align:center;padding:10px;">28.01.2024</h3>
                                 </div>
                                 <!-- 28 January end-->
-                                <div class="col-md-3 mb30">
-                                    <div class="de-image-hover rounded">
-                                        <a href="images/social/2024/22.01.2024.png" class="image-popup">
-                                            <span class="dih-title-wrap">
-                                                <span class="dih-title">V2Legal</span>
-                                            </span>
-                                            <span class="dih-overlay"></span>
-                                            <img src="images/social/2024/22.01.2024.png" class="img-fluid" alt="">
-                                        </a>
-                                    </div>
-                                    <h3 style="text-align:center;padding:10px;">22.01.2024</h3>
                                 </div>
-                            </div>
+                                <div class="row">
+                                    <div class="col-md-3 mb30">
+                                        <div class="de-image-hover rounded">
+                                            <a href="images/social/2024/22.01.2024.png" class="image-popup">
+                                                <span class="dih-title-wrap">
+                                                    <span class="dih-title">V2Legal</span>
+                                                </span>
+                                                <span class="dih-overlay"></span>
+                                                <img src="images/social/2024/22.01.2024.png" class="img-fluid" alt="">
+                                            </a>
+                                        </div>
+                                        <h3 style="text-align:center;padding:10px;">22.01.2024</h3>
+                                    </div>
+                                </div>
                             <div class="row">
                                 <div class="col-md-3 mb30">
                                     <div class="de-image-hover rounded">
@@ -268,48 +272,58 @@
                                     </div>
                                     <h3 style="text-align:center;padding:10px;">16.01.2024</h3>
                                 </div>
+                               
+                                
+                            </div>
+                            <div class="row">
                                 <div class="col-md-3 mb30">
-                                    <div class="de-image-hover rounded">
-                                        <a href="images/social/2024/15.01.2024.jpeg" class="image-popup">
-                                            <span class="dih-title-wrap">
-                                                <span class="dih-title">V2Legal</span>
-                                            </span>
-                                            <span class="dih-overlay"></span>
-                                            <img src="images/social/2024/15.01.2024.jpeg" class="img-fluid" alt="">
-                                        </a>
+                                        <div class="de-image-hover rounded">
+                                            <a href="images/social/2024/15.01.2024.jpeg" class="image-popup">
+                                                <span class="dih-title-wrap">
+                                                    <span class="dih-title">V2Legal</span>
+                                                </span>
+                                                <span class="dih-overlay"></span>
+                                                <img src="images/social/2024/15.01.2024.jpeg" class="img-fluid" alt="">
+                                            </a>
+                                        </div>
+                                        <h3 style="text-align:center;padding:10px;">15.01.2024</h3>
                                     </div>
-                                    <h3 style="text-align:center;padding:10px;">15.01.2024</h3>
-                                </div>
+                            </div>
+
+                            <div class="row">
                                 <div class="col-md-3 mb30">
-                                    <div class="de-image-hover rounded">
-                                        <a href="images/social/2024/01.01.2024.jpeg" class="image-popup">
-                                            <span class="dih-title-wrap">
-                                                <span class="dih-title">V2Legal</span>
-                                            </span>
-                                            <span class="dih-overlay"></span>
-                                            <img src="images/social/2024/01.01.2024.jpeg" class="img-fluid" alt="">
-                                        </a>
+                                        <div class="de-image-hover rounded">
+                                            <a href="images/social/2024/01.01.2024.jpeg" class="image-popup">
+                                                <span class="dih-title-wrap">
+                                                    <span class="dih-title">V2Legal</span>
+                                                </span>
+                                                <span class="dih-overlay"></span>
+                                                <img src="images/social/2024/01.01.2024.jpeg" class="img-fluid" alt="">
+                                            </a>
+                                        </div>
+                                        <h3 style="text-align:center;padding:10px;">01.01.2024</h3>
                                     </div>
-                                    <h3 style="text-align:center;padding:10px;">01.01.2024</h3>
-                                </div>
                             </div>
                             <!-- 2024 End-->
                             <!--  December 2023 -->
-                            <div class="row">
+                                <div class="row">
+                                    
                                 
-                            
-                            <div class="col-md-3 mb30">
-                                    <div class="de-image-hover rounded">
-                                        <a href="images/social/25.12.2023.jpeg" class="image-popup">
-                                            <span class="dih-title-wrap">
-                                                <span class="dih-title">V2Legal</span>
-                                            </span>
-                                            <span class="dih-overlay"></span>
-                                            <img src="images/social/25.12.2023.jpeg" class="img-fluid" alt="">
-                                        </a>
-                                    </div>
-                                    <h3 style="text-align:center;padding:10px;">25.12.2023</h3>
+                                    <div class="col-md-3 mb30">
+                                            <div class="de-image-hover rounded">
+                                                <a href="images/social/25.12.2023.jpeg" class="image-popup">
+                                                    <span class="dih-title-wrap">
+                                                        <span class="dih-title">V2Legal</span>
+                                                    </span>
+                                                    <span class="dih-overlay"></span>
+                                                    <img src="images/social/25.12.2023.jpeg" class="img-fluid" alt="">
+                                                </a>
+                                            </div>
+                                            <h3 style="text-align:center;padding:10px;">25.12.2023</h3>
+                                        </div>
                                 </div>
+
+                            <div class="row">
                                 <!--  22 December 2023 -->
                                 <div class="col-md-3 mb30">
                                     <div class="de-image-hover rounded">
