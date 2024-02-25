@@ -37,7 +37,7 @@
                                             <a class="nav-link" id="v-pills-settings-tab" data-toggle="pill" href="#v-pills-settings2" role="tab" aria-controls="v-pills-settings" aria-selected="false">T. Balaji, Counsel</a>
                                             <a class="nav-link" id="v-pills-settings-tab" data-toggle="pill" href="#v-pills-settings3" role="tab" aria-controls="v-pills-settings" aria-selected="false">V. Anantha Srinivasan, Counsel</a>
                                             <a class="nav-link" id="v-pills-settings-tab" data-toggle="pill" href="#v-pills-settings4" role="tab" aria-controls="v-pills-settings" aria-selected="false">M. Mugesh, Counsel</a>
-                                            <a class="nav-link" id="v-pills-settings-tab" data-toggle="pill" href="#v-pills-settings5" role="tab" aria-controls="v-pills-settings" aria-selected="false">R. Nithya Shree, Counsel</a>
+                                            <a class="nav-link" id="v-pills-settings-tab" data-toggle="pill" href="#v-pills-settings5" role="tab" aria-controls="v-pills-settings" aria-selected="false">Nithya Shree R, Counsel</a>
                                         </div>
                                    </div>
                                    <div class="col-10">
@@ -303,7 +303,7 @@
                                            <div class="post-content">
 				<img src="images/NithyaShree.jpg" class="img-responsive">
 				 
-                            <h2 style="padding-top:20px;">R. Nithya Shree </h2><br>
+                            <h2 style="padding-top:20px;">Nithya Shree R</h2><br>
 								 <span class="p-title blue">Counsel</span>
 				</div>
                 </div>
